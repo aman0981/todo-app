@@ -38,7 +38,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/todo-app.git
+git clone https://github.com/aman0981/todo-app.git
 cd todo-app
 Install server-side dependencies:
 
